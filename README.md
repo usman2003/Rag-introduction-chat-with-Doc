@@ -70,3 +70,4 @@ I keep a short-term memory so follow-up questions can build on the previous turn
 - **python-docx** (DOCX text extraction)
 - **python-dotenv** (load Hugging Face token from `.env`)
 "# Rag-introduction-chat-with-Doc" 
+"# Rag-introduction-chat-with-Doc" 
